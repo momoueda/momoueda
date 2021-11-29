@@ -1,4 +1,4 @@
-Hi everyone, I am a PhD candidate in Forensic Science at Simon Fraser University and interested in data-based decision making. I am also a data analyst at HirePhD Career Society and love working in python or R. 
+Hi everyone, I am a PhD candidate in Forensic Science at Simon Fraser University and interested in data-based decision making. I am also a data analyst at HirePhD Career Society and enjoy writing in Python and R! 
 
 <!---
 momoueda/momoueda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
